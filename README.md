@@ -1,7 +1,8 @@
 # file-finder
 
 **Program Requirements**  
->file-finder/requirements.txt  
+>file-finder/requirements.txt
+
 *Project written in Python 3.7.1*  
 
 **Code Coverage**  
