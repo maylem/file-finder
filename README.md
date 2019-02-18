@@ -4,7 +4,7 @@
 >file-finder/requirements.txt
 *Project written in Python 3.7.1*
 
-**Code Coverage**
+**Code Coverage**  
 Code coverage report can be generated with the following command in file-finder/:
 >`pytest --cov=src --cov-report=html test`
 
